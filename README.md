@@ -17,7 +17,7 @@ Personal Task Manager is a web-based application to manage personal tasks with f
 ### Cloning the Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/personal-task-manager.git
+   git clone https://github.com/Omar2454/personal-task-manager.git
    cd personal-task-manager
 Backend Setup
 Navigate to the backend directory:
