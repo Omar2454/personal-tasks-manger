@@ -118,12 +118,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - React: [https://reactjs.org/](https://reactjs.org/)
 - SQLAlchemy: [https://www.sqlalchemy.org/](https://www.sqlalchemy.org/)
 EOL
-
-# Add the README.md file to your repository
-git add README.md
-
-# Commit the changes
-git commit -m "Add README.md with project details"
-
-# Push the changes to GitHub
-git push
