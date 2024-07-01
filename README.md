@@ -1,23 +1,4 @@
 
-### Instructions to Add the README.md to Your Repository
-
-1. Open your project directory in a terminal.
-2. Create the `README.md` file with the provided content.
-3. Add the `README.md` file to your Git repository.
-4. Commit the changes.
-5. Push the changes to GitHub.
-
-Here are the commands:
-
-```bash
-# Navigate to your project directory
-cd C:/Users/FaDl/Desktop/Toturials/personal-task-manager
-
-# Create the README.md file
-echo "# Personal Task Manager" > README.md
-
-# Open README.md in a text editor and paste the provided content, or use:
-cat > README.md <<EOL
 # Personal Task Manager
 
 ## Overview
