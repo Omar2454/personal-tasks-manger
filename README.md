@@ -86,7 +86,7 @@ Personal Task Manager is a web-based application to manage personal tasks with f
 2. Use the interface to add, edit, and delete tasks. The tasks will be managed by the Flask backend.
 
 ## Screenshots
-Include some screenshots of the application.
+SS
 
 ![Screenshot1](path/to/screenshot1.png)
 ![Screenshot2](path/to/screenshot2.png)
