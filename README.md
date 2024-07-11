@@ -88,8 +88,8 @@ Personal Task Manager is a web-based application to manage personal tasks with f
 ## Screenshots
 SS
 
-![Screenshot1](path/to/screenshot1.png)
-![Screenshot2](path/to/screenshot2.png)
+![Screenshot1](image.png)
+![Screenshot2](Add.jpg)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
